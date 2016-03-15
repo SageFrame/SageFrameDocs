@@ -1,2 +1,2 @@
 # SageFrameDocs
-All documents, user manual related to Sageframe
+All documents, user manual related to Sageframe.
